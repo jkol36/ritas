@@ -1,0 +1,2600 @@
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448255852000</createdTime>
+	<modifiedTime type="int">1448255859000</modifiedTime>
+	<clientCreatedTime type="int">1448255851000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/NPXX8G8QJK2Z0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">628</total>
+	<id type="str">NPXX8G8QJK2Z0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448255388000</createdTime>
+	<modifiedTime type="int">1448255409000</modifiedTime>
+	<clientCreatedTime type="int">1448255388000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/55F6V6C18GD5G</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1386</total>
+	<id type="str">55F6V6C18GD5G</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448254533000</createdTime>
+	<modifiedTime type="int">1448254545000</modifiedTime>
+	<clientCreatedTime type="int">1448254532000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/SZRPN6F3APA00</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">399</total>
+	<id type="str">SZRPN6F3APA00</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448254504000</createdTime>
+	<modifiedTime type="int">1448269545000</modifiedTime>
+	<clientCreatedTime type="int">1448254504000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/PS515FVYKM518</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">399</total>
+	<id type="str">PS515FVYKM518</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448253889000</createdTime>
+	<modifiedTime type="int">1448269545000</modifiedTime>
+	<clientCreatedTime type="int">1448253889000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5M6CBNWQP8YT8</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1576</total>
+	<id type="str">5M6CBNWQP8YT8</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250824000</createdTime>
+	<modifiedTime type="int">1448250832000</modifiedTime>
+	<clientCreatedTime type="int">1448250824000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/W4YW2FEHYA2E0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">998</total>
+	<id type="str">W4YW2FEHYA2E0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250570000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448250570000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/GN0Z0RVEMVW8C</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">748</total>
+	<id type="str">GN0Z0RVEMVW8C</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250497000</createdTime>
+	<modifiedTime type="int">1448250528000</modifiedTime>
+	<clientCreatedTime type="int">1448250496000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/C0KWACTNBHS7P</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1648</total>
+	<id type="str">C0KWACTNBHS7P</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250317000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448250316000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/AJ0GZQQ7P37RJ</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">778</total>
+	<id type="str">AJ0GZQQ7P37RJ</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250243000</createdTime>
+	<modifiedTime type="int">1448250249000</modifiedTime>
+	<clientCreatedTime type="int">1448250242000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/FEZFFQTE3JKJ2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">928</total>
+	<id type="str">FEZFFQTE3JKJ2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250174000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448250172000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/26JB3DARKDG5C</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">748</total>
+	<id type="str">26JB3DARKDG5C</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448250107000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448250106000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/A4QBZPFS3AS26</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1596</total>
+	<id type="str">A4QBZPFS3AS26</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448248721000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448248720000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/GXW511MS1GNDT</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1356</total>
+	<id type="str">GXW511MS1GNDT</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448248046000</createdTime>
+	<modifiedTime type="int">1448248123000</modifiedTime>
+	<clientCreatedTime type="int">1448248045000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/XN4ZY9S0AJQMM</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1347</total>
+	<id type="str">XN4ZY9S0AJQMM</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448247771000</createdTime>
+	<modifiedTime type="int">1448247902000</modifiedTime>
+	<clientCreatedTime type="int">1448247770000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/GR5KHT3S540RR</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1745</total>
+	<id type="str">GR5KHT3S540RR</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448247515000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448247514000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/AGPMJM67ETTFC</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1402</total>
+	<id type="str">AGPMJM67ETTFC</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448247379000</createdTime>
+	<modifiedTime type="int">1448269544000</modifiedTime>
+	<clientCreatedTime type="int">1448247378000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/J84C6ZE7FANYE</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1077</total>
+	<id type="str">J84C6ZE7FANYE</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448247273000</createdTime>
+	<modifiedTime type="int">1448269543000</modifiedTime>
+	<clientCreatedTime type="int">1448247272000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/F95534FKD2XS0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">688</total>
+	<id type="str">F95534FKD2XS0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448246590000</createdTime>
+	<modifiedTime type="int">1448269543000</modifiedTime>
+	<clientCreatedTime type="int">1448246589000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/F6CRS56AKZNHE</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1671</total>
+	<id type="str">F6CRS56AKZNHE</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448246512000</createdTime>
+	<modifiedTime type="int">1448269543000</modifiedTime>
+	<clientCreatedTime type="int">1448246512000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/WHVD6X8BZEF04</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1336</total>
+	<id type="str">WHVD6X8BZEF04</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448246239000</createdTime>
+	<modifiedTime type="int">1448269543000</modifiedTime>
+	<clientCreatedTime type="int">1448246238000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/HC10GB057KTCG</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">928</total>
+	<id type="str">HC10GB057KTCG</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448242856000</createdTime>
+	<modifiedTime type="int">1448242866000</modifiedTime>
+	<clientCreatedTime type="int">1448242855000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/CRQZ3PDSY269C</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1195</total>
+	<id type="str">CRQZ3PDSY269C</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448241612000</createdTime>
+	<modifiedTime type="int">1448269542000</modifiedTime>
+	<clientCreatedTime type="int">1448241612000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/P0B98MSWJXEVJ</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1624</total>
+	<id type="str">P0B98MSWJXEVJ</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448240245000</createdTime>
+	<modifiedTime type="int">1448240247000</modifiedTime>
+	<clientCreatedTime type="int">1448240245000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/PW2A337KMZK56</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">349</total>
+	<id type="str">PW2A337KMZK56</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448240215000</createdTime>
+	<modifiedTime type="int">1448269542000</modifiedTime>
+	<clientCreatedTime type="int">1448240215000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/SV34Q6P2H8PWP</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1356</total>
+	<id type="str">SV34Q6P2H8PWP</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448240114000</createdTime>
+	<modifiedTime type="int">1448240131000</modifiedTime>
+	<clientCreatedTime type="int">1448240113000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/VQQN3QBDC5MT6</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">139</total>
+	<id type="str">VQQN3QBDC5MT6</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448239706000</createdTime>
+	<modifiedTime type="int">1448269542000</modifiedTime>
+	<clientCreatedTime type="int">1448239705000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/Y5ZJZQZ2VC1SJ</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">827</total>
+	<id type="str">Y5ZJZQZ2VC1SJ</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448239623000</createdTime>
+	<modifiedTime type="int">1448269542000</modifiedTime>
+	<clientCreatedTime type="int">1448239622000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/JYMF2D3KDZ0G4</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1496</total>
+	<id type="str">JYMF2D3KDZ0G4</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448239454000</createdTime>
+	<modifiedTime type="int">1448269542000</modifiedTime>
+	<clientCreatedTime type="int">1448239453000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/TS83YCWQC41VR</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1396</total>
+	<id type="str">TS83YCWQC41VR</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448239208000</createdTime>
+	<modifiedTime type="int">1448269541000</modifiedTime>
+	<clientCreatedTime type="int">1448239207000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/T4ZSEV6ETJMC6</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">928</total>
+	<id type="str">T4ZSEV6ETJMC6</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238948000</createdTime>
+	<modifiedTime type="int">1448269541000</modifiedTime>
+	<clientCreatedTime type="int">1448238947000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/N9DW8D7JDAW4Y</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">957</total>
+	<id type="str">N9DW8D7JDAW4Y</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238796000</createdTime>
+	<modifiedTime type="int">1448238820000</modifiedTime>
+	<clientCreatedTime type="int">1448238796000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/T4Q3WM2DXQD70</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">878</total>
+	<id type="str">T4Q3WM2DXQD70</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238781000</createdTime>
+	<modifiedTime type="int">1448269541000</modifiedTime>
+	<clientCreatedTime type="int">1448238780000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5S0TQJQTWRWKE</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">399</total>
+	<id type="str">5S0TQJQTWRWKE</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238667000</createdTime>
+	<modifiedTime type="int">1448269541000</modifiedTime>
+	<clientCreatedTime type="int">1448238667000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/B9FZ5R47S3QH0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1247</total>
+	<id type="str">B9FZ5R47S3QH0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238288000</createdTime>
+	<modifiedTime type="int">1448269541000</modifiedTime>
+	<clientCreatedTime type="int">1448238288000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/KWZJ8YF4E93Q4</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">1905</total>
+	<id type="str">KWZJ8YF4E93Q4</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238272000</createdTime>
+	<modifiedTime type="int">1448238277000</modifiedTime>
+	<clientCreatedTime type="int">1448238271000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/ZMH01G5VRK8S2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">0</total>
+	<id type="str">ZMH01G5VRK8S2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238144000</createdTime>
+	<modifiedTime type="int">1448238146000</modifiedTime>
+	<clientCreatedTime type="int">1448238144000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/60MXKT2VSFD8T</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">289</total>
+	<id type="str">60MXKT2VSFD8T</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448238097000</createdTime>
+	<modifiedTime type="int">1448238102000</modifiedTime>
+	<clientCreatedTime type="int">1448238096000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/YHJ4DMJ67W966</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NTAPRXYJNYKG4</id>
+	</employee>
+	<total type="int">0</total>
+	<id type="str">YHJ4DMJ67W966</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448237982000</createdTime>
+	<modifiedTime type="int">1448269540000</modifiedTime>
+	<clientCreatedTime type="int">1448237982000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/Y3ZNW0YVM7SQE</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">Y3ZNW0YVM7SQE</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448237941000</createdTime>
+	<modifiedTime type="int">1448269540000</modifiedTime>
+	<clientCreatedTime type="int">1448237940000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/B61QNMD3GX7G4</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">973</total>
+	<id type="str">B61QNMD3GX7G4</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448237304000</createdTime>
+	<modifiedTime type="int">1448237402000</modifiedTime>
+	<clientCreatedTime type="int">1448237303000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/K28JYPQD4QAQW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1915</total>
+	<id type="str">K28JYPQD4QAQW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448237124000</createdTime>
+	<modifiedTime type="int">1448269540000</modifiedTime>
+	<clientCreatedTime type="int">1448237123000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/NFFW075AHW6WC</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1456</total>
+	<id type="str">NFFW075AHW6WC</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448236888000</createdTime>
+	<modifiedTime type="int">1448269540000</modifiedTime>
+	<clientCreatedTime type="int">1448236888000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/R1BDYHB0BT3M2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1077</total>
+	<id type="str">R1BDYHB0BT3M2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448234942000</createdTime>
+	<modifiedTime type="int">1448269540000</modifiedTime>
+	<clientCreatedTime type="int">1448234941000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/414YPD0KR709R</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">828</total>
+	<id type="str">414YPD0KR709R</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448234554000</createdTime>
+	<modifiedTime type="int">1448269539000</modifiedTime>
+	<clientCreatedTime type="int">1448234554000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/MVG30YXT6BB3A</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">MVG30YXT6BB3A</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448234533000</createdTime>
+	<modifiedTime type="int">1448269539000</modifiedTime>
+	<clientCreatedTime type="int">1448234532000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/TJMEHXAY47XEW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">TJMEHXAY47XEW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448234436000</createdTime>
+	<modifiedTime type="int">1448269539000</modifiedTime>
+	<clientCreatedTime type="int">1448234436000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/9J2K2KGJXBGSP</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1596</total>
+	<id type="str">9J2K2KGJXBGSP</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448234357000</createdTime>
+	<modifiedTime type="int">1448269539000</modifiedTime>
+	<clientCreatedTime type="int">1448234356000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/1Q74C2ZTBM4GM</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">698</total>
+	<id type="str">1Q74C2ZTBM4GM</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448233231000</createdTime>
+	<modifiedTime type="int">1448269539000</modifiedTime>
+	<clientCreatedTime type="int">1448233230000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5NWY56PM9H8H2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1297</total>
+	<id type="str">5NWY56PM9H8H2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448232833000</createdTime>
+	<modifiedTime type="int">1448232839000</modifiedTime>
+	<clientCreatedTime type="int">1448232833000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/S822ZW3P4B1H0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">Y3PPCC6G5RBZP</id>
+	</employee>
+	<total type="int">1396</total>
+	<id type="str">S822ZW3P4B1H0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448232679000</createdTime>
+	<modifiedTime type="int">1448232686000</modifiedTime>
+	<clientCreatedTime type="int">1448232678000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/H4KWS3HKRB292</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">778</total>
+	<id type="str">H4KWS3HKRB292</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448232526000</createdTime>
+	<modifiedTime type="int">1448269538000</modifiedTime>
+	<clientCreatedTime type="int">1448232526000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/2HZPSS63RX55T</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">1116</total>
+	<id type="str">2HZPSS63RX55T</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448232371000</createdTime>
+	<modifiedTime type="int">1448269538000</modifiedTime>
+	<clientCreatedTime type="int">1448232371000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5FH2WZ5FB1ZVW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">1446</total>
+	<id type="str">5FH2WZ5FB1ZVW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448231862000</createdTime>
+	<modifiedTime type="int">1448269538000</modifiedTime>
+	<clientCreatedTime type="int">1448231862000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/13AVQC3SZNZA0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">897</total>
+	<id type="str">13AVQC3SZNZA0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448231799000</createdTime>
+	<modifiedTime type="int">1448231810000</modifiedTime>
+	<clientCreatedTime type="int">1448231799000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/C5Z52MDMQ55EW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">299</total>
+	<id type="str">C5Z52MDMQ55EW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448231673000</createdTime>
+	<modifiedTime type="int">1448269538000</modifiedTime>
+	<clientCreatedTime type="int">1448231672000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/KBJX06658BXXW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">698</total>
+	<id type="str">KBJX06658BXXW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448231584000</createdTime>
+	<modifiedTime type="int">1448269538000</modifiedTime>
+	<clientCreatedTime type="int">1448231583000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/FQ3XGNRV0T75R</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">450</total>
+	<id type="str">FQ3XGNRV0T75R</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448230780000</createdTime>
+	<modifiedTime type="int">1448230806000</modifiedTime>
+	<clientCreatedTime type="int">1448230779000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/SD9KXFSVEB8B2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">449</total>
+	<id type="str">SD9KXFSVEB8B2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448230607000</createdTime>
+	<modifiedTime type="int">1448269537000</modifiedTime>
+	<clientCreatedTime type="int">1448230606000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/NNZEKPWTN1FSW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">778</total>
+	<id type="str">NNZEKPWTN1FSW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448230390000</createdTime>
+	<modifiedTime type="int">1448230423000</modifiedTime>
+	<clientCreatedTime type="int">1448230389000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/3FFM3Y6EP7VK4</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">2445</total>
+	<id type="str">3FFM3Y6EP7VK4</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448227980000</createdTime>
+	<modifiedTime type="int">1448227988000</modifiedTime>
+	<clientCreatedTime type="int">1448227979000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/D3NN8KSVC4WC0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">1247</total>
+	<id type="str">D3NN8KSVC4WC0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448227564000</createdTime>
+	<modifiedTime type="int">1448269537000</modifiedTime>
+	<clientCreatedTime type="int">1448227563000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/KF35S9GF2AB9M</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">856</total>
+	<id type="str">KF35S9GF2AB9M</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448227309000</createdTime>
+	<modifiedTime type="int">1448269537000</modifiedTime>
+	<clientCreatedTime type="int">1448227308000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/TDG0XC5WSMTHW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">748</total>
+	<id type="str">TDG0XC5WSMTHW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448227177000</createdTime>
+	<modifiedTime type="int">1448269537000</modifiedTime>
+	<clientCreatedTime type="int">1448227176000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/G0ARHZW9FP4TY</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">1266</total>
+	<id type="str">G0ARHZW9FP4TY</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448227047000</createdTime>
+	<modifiedTime type="int">1448269537000</modifiedTime>
+	<clientCreatedTime type="int">1448227046000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5ZF70NKNR6V7R</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">698</total>
+	<id type="str">5ZF70NKNR6V7R</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448225443000</createdTime>
+	<modifiedTime type="int">1448269536000</modifiedTime>
+	<clientCreatedTime type="int">1448225442000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5R3TCJ7T439H4</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">349</total>
+	<id type="str">5R3TCJ7T439H4</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448225176000</createdTime>
+	<modifiedTime type="int">1448225179000</modifiedTime>
+	<clientCreatedTime type="int">1448225175000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/JMDV8SJF7K0R6</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">JMDV8SJF7K0R6</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448223398000</createdTime>
+	<modifiedTime type="int">1448269536000</modifiedTime>
+	<clientCreatedTime type="int">1448223397000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/293VHW01NPHNE</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">7QZQ8YYBCX4S2</id>
+	</employee>
+	<total type="int">598</total>
+	<id type="str">293VHW01NPHNE</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448223067000</createdTime>
+	<modifiedTime type="int">1448269536000</modifiedTime>
+	<clientCreatedTime type="int">1448223067000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/0E14RC0THSQZP</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">748</total>
+	<id type="str">0E14RC0THSQZP</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448222158000</createdTime>
+	<modifiedTime type="int">1448269536000</modifiedTime>
+	<clientCreatedTime type="int">1448222158000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/4GCZ0C3SD5FBJ</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">4GCZ0C3SD5FBJ</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448220775000</createdTime>
+	<modifiedTime type="int">1448220784000</modifiedTime>
+	<clientCreatedTime type="int">1448220774000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/HV2RAK7XJKP2W</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">399</total>
+	<id type="str">HV2RAK7XJKP2W</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448218921000</createdTime>
+	<modifiedTime type="int">1448269536000</modifiedTime>
+	<clientCreatedTime type="int">1448218921000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/8FAFDQX5HPNRA</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">YBN93R4NH52NP</id>
+	</employee>
+	<total type="int">449</total>
+	<id type="str">8FAFDQX5HPNRA</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448170496000</createdTime>
+	<modifiedTime type="int">1448183142000</modifiedTime>
+	<clientCreatedTime type="int">1448170496000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/S1X91RPGESVZ0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">JA1BJXEWYVCT2</id>
+	</employee>
+	<total type="int">299</total>
+	<id type="str">S1X91RPGESVZ0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448170333000</createdTime>
+	<modifiedTime type="int">1448183142000</modifiedTime>
+	<clientCreatedTime type="int">1448170333000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/KNMW153KH256C</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">JA1BJXEWYVCT2</id>
+	</employee>
+	<total type="int">399</total>
+	<id type="str">KNMW153KH256C</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448170143000</createdTime>
+	<modifiedTime type="int">1448183142000</modifiedTime>
+	<clientCreatedTime type="int">1448170143000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/NKRTM2X1C3DH8</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">JA1BJXEWYVCT2</id>
+	</employee>
+	<total type="int">1327</total>
+	<id type="str">NKRTM2X1C3DH8</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448170023000</createdTime>
+	<modifiedTime type="int">1448170047000</modifiedTime>
+	<clientCreatedTime type="int">1448170023000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/K203FAK6P3GBE</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">JA1BJXEWYVCT2</id>
+	</employee>
+	<total type="int">649</total>
+	<id type="str">K203FAK6P3GBE</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448169321000</createdTime>
+	<modifiedTime type="int">1448183142000</modifiedTime>
+	<clientCreatedTime type="int">1448169320000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/0HV7K5TPJ6QFT</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">JA1BJXEWYVCT2</id>
+	</employee>
+	<total type="int">2523</total>
+	<id type="str">0HV7K5TPJ6QFT</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448168876000</createdTime>
+	<modifiedTime type="int">1448168885000</modifiedTime>
+	<clientCreatedTime type="int">1448168875000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/NWBXR1825M5GG</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">JA1BJXEWYVCT2</id>
+	</employee>
+	<total type="int">867</total>
+	<id type="str">NWBXR1825M5GG</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448167875000</createdTime>
+	<modifiedTime type="int">1448167948000</modifiedTime>
+	<clientCreatedTime type="int">1448167874000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/Y0073A9QY4D9J</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">WCAJ81CVGP9SE</id>
+	</employee>
+	<total type="int">1077</total>
+	<id type="str">Y0073A9QY4D9J</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448167486000</createdTime>
+	<modifiedTime type="int">1448167509000</modifiedTime>
+	<clientCreatedTime type="int">1448167485000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/4C8JZVCTKC3HY</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NPMQQ2CCZBD1M</id>
+	</employee>
+	<total type="int">299</total>
+	<id type="str">4C8JZVCTKC3HY</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448167147000</createdTime>
+	<modifiedTime type="int">1448167176000</modifiedTime>
+	<clientCreatedTime type="int">1448167147000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/Y51E7MDKTDK1P</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NPMQQ2CCZBD1M</id>
+	</employee>
+	<total type="int">898</total>
+	<id type="str">Y51E7MDKTDK1P</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448166829000</createdTime>
+	<modifiedTime type="int">1448183141000</modifiedTime>
+	<clientCreatedTime type="int">1448166828000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/ZVXWPDZEGKNZ0</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">NPMQQ2CCZBD1M</id>
+	</employee>
+	<total type="int">1696</total>
+	<id type="str">ZVXWPDZEGKNZ0</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448165945000</createdTime>
+	<modifiedTime type="int">1448183141000</modifiedTime>
+	<clientCreatedTime type="int">1448165944000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/0VMZQ50TSBKS6</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">1076</total>
+	<id type="str">0VMZQ50TSBKS6</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448165606000</createdTime>
+	<modifiedTime type="int">1448183141000</modifiedTime>
+	<clientCreatedTime type="int">1448165605000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/YVYG8PPQJFTKM</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">2305</total>
+	<id type="str">YVYG8PPQJFTKM</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448165279000</createdTime>
+	<modifiedTime type="int">1448165295000</modifiedTime>
+	<clientCreatedTime type="int">1448165279000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/987DJSSZ63J4P</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">598</total>
+	<id type="str">987DJSSZ63J4P</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448165206000</createdTime>
+	<modifiedTime type="int">1448183141000</modifiedTime>
+	<clientCreatedTime type="int">1448165205000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/QJ1V8850WPYC4</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">1432</total>
+	<id type="str">QJ1V8850WPYC4</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448165099000</createdTime>
+	<modifiedTime type="int">1448183141000</modifiedTime>
+	<clientCreatedTime type="int">1448165099000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/6KW6ASPJYBZX2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">603</total>
+	<id type="str">6KW6ASPJYBZX2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448164717000</createdTime>
+	<modifiedTime type="int">1448183140000</modifiedTime>
+	<clientCreatedTime type="int">1448164716000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/YTF2W4Y05Q06A</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">897</total>
+	<id type="str">YTF2W4Y05Q06A</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448163872000</createdTime>
+	<modifiedTime type="int">1448163884000</modifiedTime>
+	<clientCreatedTime type="int">1448163871000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/T0718MXD5ZJ6Y</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">877</total>
+	<id type="str">T0718MXD5ZJ6Y</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448163697000</createdTime>
+	<modifiedTime type="int">1448163707000</modifiedTime>
+	<clientCreatedTime type="int">1448163697000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/04EEN2DSSV2H2</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">04EEN2DSSV2H2</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448163140000</createdTime>
+	<modifiedTime type="int">1448183140000</modifiedTime>
+	<clientCreatedTime type="int">1448163140000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/H0A99J6K0923W</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">H0A99J6K0923W</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448162012000</createdTime>
+	<modifiedTime type="int">1448162021000</modifiedTime>
+	<clientCreatedTime type="int">1448162012000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/ZTJ4V5ETZKBB6</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">958</total>
+	<id type="str">ZTJ4V5ETZKBB6</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448161776000</createdTime>
+	<modifiedTime type="int">1448161789000</modifiedTime>
+	<clientCreatedTime type="int">1448161776000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/VPPJCEEX63XRW</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">688</total>
+	<id type="str">VPPJCEEX63XRW</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448161441000</createdTime>
+	<modifiedTime type="int">1448183140000</modifiedTime>
+	<clientCreatedTime type="int">1448161440000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/3VEKA6Z68JH2C</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">1975</total>
+	<id type="str">3VEKA6Z68JH2C</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448160219000</createdTime>
+	<modifiedTime type="int">1448183140000</modifiedTime>
+	<clientCreatedTime type="int">1448160218000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/JPTF1JV650DKR</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">1047</total>
+	<id type="str">JPTF1JV650DKR</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448159977000</createdTime>
+	<modifiedTime type="int">1448183140000</modifiedTime>
+	<clientCreatedTime type="int">1448159977000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/0GQXZH50XY0W8</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">897</total>
+	<id type="str">0GQXZH50XY0W8</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448158454000</createdTime>
+	<modifiedTime type="int">1448158468000</modifiedTime>
+	<clientCreatedTime type="int">1448158453000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/R4J9KY4VD2A92</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">299</total>
+	<id type="str">R4J9KY4VD2A92</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448156303000</createdTime>
+	<modifiedTime type="int">1448183139000</modifiedTime>
+	<clientCreatedTime type="int">1448156303000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/5131PH91RS26M</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">578</total>
+	<id type="str">5131PH91RS26M</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448155794000</createdTime>
+	<modifiedTime type="int">1448155805000</modifiedTime>
+	<clientCreatedTime type="int">1448155793000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/W8XY8PMB1N7HA</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">823</total>
+	<id type="str">W8XY8PMB1N7HA</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
+<?xml version="1.0" ?>
+<root>
+	<taxRemoved type="bool">True</taxRemoved>
+	<createdTime type="int">1448154855000</createdTime>
+	<modifiedTime type="int">1448154861000</modifiedTime>
+	<clientCreatedTime type="int">1448154854000</clientCreatedTime>
+	<orderType type="dict">
+		<id type="str">W89Y8P4KYZGQE</id>
+	</orderType>
+	<payType type="str">FULL</payType>
+	<groupLineItems type="bool">False</groupLineItems>
+	<isVat type="bool">False</isVat>
+	<currency type="str">USD</currency>
+	<state type="str">locked</state>
+	<href type="str">https://www.clover.com/v3/merchants/CNH7H10A6ACV4/orders/50W3BA74RC9QY</href>
+	<device type="dict">
+		<id type="str">b0cf1de1-c0b5-4059-8b53-ec216d4ef4cb</id>
+	</device>
+	<testMode type="bool">False</testMode>
+	<employee type="dict">
+		<id type="str">B1NKGJSZPVD7P</id>
+	</employee>
+	<total type="int">798</total>
+	<id type="str">50W3BA74RC9QY</id>
+	<manualTransaction type="bool">False</manualTransaction>
+</root>
